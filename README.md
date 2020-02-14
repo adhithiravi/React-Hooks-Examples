@@ -1,2 +1,5 @@
 # React-Hooks-Examples
-This repo will have examples to use React Hooks
+This repo has examples of React Hooks and comprable class components.
+
+1. useState Hook
+2. useEffect Hook
