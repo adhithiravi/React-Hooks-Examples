@@ -4,6 +4,6 @@
   "articles": [
     { "id": "1", "title": "React Native FAQ" },
     { "id": "2", "title": "GraphQL APIs FAQ" },
-    { "id": "3", "title": "JavaScript 101" },
+    { "id": "3", "title": "JavaScript 101" }
   ]
 }
